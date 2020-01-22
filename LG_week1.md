@@ -11,8 +11,8 @@ I also learned that I like the instant gratification that comes with programming
 1. Cats
 1. Fountain Pens
 1. Granola Bars
-  - Especially the crunchy kind that get all over your desk
-  - In particular peanut butter flavors
+    - Especially the crunchy kind that get all over your desk
+    - In particular peanut butter flavors
 
 ## A Picture
 ![This is a picture of my cat, Ezio](/ezio.JPG)
