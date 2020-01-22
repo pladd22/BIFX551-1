@@ -5,4 +5,4 @@ Use a list, a picture, a link, and a table. Then send me a pull request.
 Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinformatics.  I would like to learn R and become fluent in git.
 
 I currently work for 
-![Battelle](/battelle.logo.png )
+![Battelle](/battelle.logo.png ) www.battelle.org
