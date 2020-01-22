@@ -7,19 +7,21 @@ I also learned that I like the instant gratification that comes with programming
 For a glimpse into the kind of things I do, check out [this news article](https://www.statnews.com/2018/10/16/phage-therapy-viruses-carl-merril-navy/).
 
 ## A List
-### Here is a list of some things.
+### Here is a list of some things I do
 
-1. Cats
-1. Fountain Pens
-1. Granola Bars
-    - Especially the crunchy kind that get all over your desk
-    - In particular, peanut butter flavors
+1. DNA extractions
+1. Maintaining Next generation sequencing machines such as:
+        - Illumina Miseq
+        - IonTorrent S5
+        - Oxford Nanopore MinIon
+        - PacBio Sequel
+1. A bit of microbiology work finding bacteriophage to sequence
 
-## A Picture
+## A Picture of my cat Ezio
 ![This is a picture of my cat, Ezio](/ezio.JPG)
 
 ## A Table 
-### Comparison of my two cats, Ezio and Bean
+### A *Super Detailed* Comparison of my two cats, Ezio and Bean
 
 Ezio | Bean
 ---------|---------
