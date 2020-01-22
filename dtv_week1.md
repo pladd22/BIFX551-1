@@ -2,10 +2,7 @@ Assignment:Fork the class repository, create a new markdown file called "your_in
 you are in the bioinformatics program. 
 Use a list, a picture, a link, and a table. Then send me a pull request.
 
-Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinformatics.  I would like to learn R and become fluent in git.
-
-I currently work for 
-![Battelle](/battelle.logo.png )
+Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinformatics.  I would like to learn R and become fluent in git. I currently work for ![Battelle](/battelle.logo.png ) at Battelle National Biodefense Institute (BNBI) on Fort Detrick.  This is my first job as a Bioinformatics Sys Admin so I would like to get up to speed as quickly as possible.
  
 Their website is [www.battelle.org](http://www.battelle.org)
 
