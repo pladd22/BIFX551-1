@@ -9,9 +9,11 @@ I am pursuing bioinformatics to be able to link the lab with the heavy computati
   
   ![Chronic_traumatic_encephalopathy]( C:\Users\nk15\Desktop\BIFX551\Chronic_traumatic_encephalopathy.png)
   
-  Number 1 | Reason 
-  var1 num1 | var 1 num2
-  ----------|-----------
+number |Reasons why to program
+------------ | -------------
+1 | machine Learning can be taught from the data that I provide to it by either giving it commands or yes/no answers  
+2 | by being able to manipulate the data I can link biomarkers and the disease state to develop platforms to test with patients
+3 | we all love getting payed more and love windows
 
   
   
