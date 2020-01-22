@@ -7,7 +7,7 @@ I am pursuing bioinformatics to be able to link the lab with the heavy computati
   * Finding a way to link biormakers to disease states
   * Increase pay from wet lab work
   
-  ![Chronic_traumatic_encephalopathy]( C:\Users\nk15\Desktop\BIFX551\Chronic_traumatic_encephalopathy.png)
+  ![Chronic_traumatic_encephalopathy](Chronic_traumatic_encephalopathy.png)
   
 number |Reasons why to program
 ------------ | -------------
