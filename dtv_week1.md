@@ -1,4 +1,7 @@
-Assignment:Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why
+#Dan Vogel
+##BIFX551
+
+Assignment 1:Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why
 you are in the bioinformatics program. 
 Use a list, a picture, a link, and a table. Then send me a pull request.
 
