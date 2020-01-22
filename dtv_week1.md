@@ -5,4 +5,25 @@ Use a list, a picture, a link, and a table. Then send me a pull request.
 Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinformatics.  I would like to learn R and become fluent in git.
 
 I currently work for 
-![Battelle](/battelle.logo.png ) www.battelle.org
+![Battelle](/battelle.logo.png )
+ 
+Their website is http://www.battelle.org
+
+My planned courses are:
+Course|Description|Credits
+BIFX 501/BMS 501|Foundation in Life Sciences (for non-Life Scientists)|3.0
+BIFX 503|Statistics for Bioinformatics|3.0
+BIFX 530|Introduction to Database Systems and SQL	|3.0
+BIFX 545|Leadership Skills and Project Management in Life Sciences|3.0
+BIFX 550|Nucleic Acid Sequence Analysis and Protein Modeling|3.0
+BIFX 551|Programming for Bioinformatics|3.0
+
+Electives (12 credits)
+
+Course|Description|Credits
+BIFX 547|Web-based Bioinformatics & Applications in Life Sciences|3.0
+BIFX 548|Data Visualization for Bioinformatics|3.0
+BIFX 552|Bioinformatics Applications I|3.0
+BIFX 553|Bioinformatics Applications II	|3.0
+BIFX 546|Knowledge Reasoning and Machine Learning|3.0
+BIFX 579|Capstone Project	|3.0
