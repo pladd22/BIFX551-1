@@ -15,4 +15,10 @@ I also learned that I like the instant gratification that comes with programming
   - In particular peanut butter flavors
 
 ## A Picture
-![This is a picture of my cat, Ezio](desktop/pythons/ezio.jpg)
+![This is a picture of my cat, Ezio](icloud_drive/desktop/pythons/ezio.jpg)
+
+## A Table
+
+Column 1 | Column 2
+---------|---------
+Words 1|Words2
