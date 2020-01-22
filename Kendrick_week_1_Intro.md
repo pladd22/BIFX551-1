@@ -9,6 +9,8 @@ I am pursuing bioinformatics to be able to link the lab with the heavy computati
   * Finding a way to link biormakers to disease states
   * Increase pay from wet lab work
   
+  The image below is the difference between a normal brain and someone who has CTE.
+  
   ![CTE](/CTE.png)
   
 number |Reasons why to program
