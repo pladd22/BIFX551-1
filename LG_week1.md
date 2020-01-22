@@ -11,10 +11,10 @@ For a glimpse into the kind of things I do, check out [this news article](https:
 
 1. DNA extractions
 1. Maintaining Next generation sequencing machines such as:
-        - Illumina Miseq
-        - IonTorrent S5
-        - Oxford Nanopore MinIon
-        - PacBio Sequel
+  - Illumina Miseq
+  - IonTorrent S5
+  - Oxford Nanopore MinIon
+  - PacBio Sequel
 1. A bit of microbiology work finding bacteriophage to sequence
 
 ## A Picture of my cat Ezio
