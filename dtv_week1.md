@@ -10,6 +10,7 @@ Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinfo
 ![Battelle](/battelle.logo.png )
 
 Their website is [www.battelle.org](http://www.battelle.org)
+The BNBI lab website is http://bnbi.org/
 
 My planned courses are:
 
