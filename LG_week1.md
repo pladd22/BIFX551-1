@@ -17,8 +17,12 @@ I also learned that I like the instant gratification that comes with programming
 ## A Picture
 ![This is a picture of my cat, Ezio](/ezio.JPG)
 
-## A Table
+## A Table 
+### Comparison of my two cats, Ezio and Bean
 
-Column 1 | Column 2
+Ezio | Bean
 ---------|---------
-Words 1|Words2
+Big  | Small
+Black and white| All white
+Indoor and outdoor| Indoor only
+
