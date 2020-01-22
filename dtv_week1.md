@@ -21,8 +21,8 @@ BIFX 551|Programming for Bioinformatics|3.0
 
 Electives (12 credits)
 
-Course|Description|Credits
----------|-------------------------------------------------------------|----
+Course | Description | Credits
+--------- | ------------------------------------------------------------- | ----
 BIFX 547|Web-based Bioinformatics & Applications in Life Sciences|3.0
 BIFX 548|Data Visualization for Bioinformatics|3.0
 BIFX 552|Bioinformatics Applications I|3.0
