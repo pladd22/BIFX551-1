@@ -11,9 +11,9 @@ Their website is http://www.battelle.org
 
 My planned courses are:
 Course|Description|Credits
-BIFX 501/BMS 501|Foundation in Life Sciences (for non-Life Scientists)|3.0
+---------|-------------------------------------------------------------|----
+BIFX 501|Foundation in Life Sciences (for non-Life Scientists)|3.0
 BIFX 503|Statistics for Bioinformatics|3.0
-BIFX 530|Introduction to Database Systems and SQL	|3.0
 BIFX 545|Leadership Skills and Project Management in Life Sciences|3.0
 BIFX 550|Nucleic Acid Sequence Analysis and Protein Modeling|3.0
 BIFX 551|Programming for Bioinformatics|3.0
