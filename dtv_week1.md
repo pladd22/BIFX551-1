@@ -28,4 +28,3 @@ BIFX 548|Data Visualization for Bioinformatics|3.0
 BIFX 552|Bioinformatics Applications I|3.0
 BIFX 553|Bioinformatics Applications II	|3.0
 BIFX 546|Knowledge Reasoning and Machine Learning|3.0
-BIFX 579|Capstone Project	|3.0
