@@ -7,7 +7,7 @@ Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinfo
 I currently work for 
 ![Battelle](/battelle.logo.png )
  
-Their website is http://www.battelle.org
+Their website is [www.battelle.org](http://www.battelle.org)
 
 My planned courses are:
 
