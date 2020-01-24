@@ -1,4 +1,4 @@
-# BBIFX 551 - Spring 2020
+# BIFX 551 - Spring 2020
 ## Dr. Chris Malec
 
 ### Course Description:
