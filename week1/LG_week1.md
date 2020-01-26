@@ -18,7 +18,7 @@ For a glimpse into the kind of things I do, check out [this news article](https:
 1. A bit of microbiology work finding bacteriophage to sequence
 
 ## A Picture of my cat Ezio
-![This is a picture of my cat, Ezio](/ezio.JPG)
+![This is a picture of my cat, Ezio](/files/ezio.JPG)
 
 ## A Table 
 ### A *Super Detailed* Comparison of my two cats, Ezio and Bean
