@@ -11,7 +11,7 @@ I am pursuing bioinformatics to be able to link the lab with the heavy computati
   
   The image below is the difference between a normal brain and someone who has CTE.
   
-  ![CTE](/CTE.png)
+  ![CTE](/files/CTE.png)
   
 number |Reasons why to program
 ------------ | -------------
