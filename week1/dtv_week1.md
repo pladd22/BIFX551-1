@@ -7,7 +7,7 @@ Use a list, a picture, a link, and a table. Then send me a pull request.
 
 Why am I in the Hood Bioinformatics program?  To help my with my work in Bioinformatics.  I would like to learn R and become fluent in git. I currently work at the Battelle National Biodefense Institute (BNBI) on Fort Detrick.  This is my first job as a Bioinformatics Sys Admin so I would like to get up to speed as quickly as possible.
  
-![Battelle](/battelle.logo.png )
+![Battelle](/files/battelle.logo.png )
 
 Their website is [www.battelle.org](http://www.battelle.org)
 The BNBI lab website is http://bnbi.org/
