@@ -41,3 +41,43 @@ logging into the slurm server:  ssh dtv1@144.175.88.21
 SLURM
 srun --pty R
 
+> help(sample)sample                  package:base                   R Documentation
+
+Random Samples and Permutations
+
+Description:
+
+     ‘sample’ takes a sample of the specified size from the elements of
+     ‘x’ using either with or without replacement.
+
+Usage:
+
+     sample(x, size, replace = FALSE, prob = NULL)
+
+     sample.int(n, size = n, replace = FALSE, prob = NULL,
+                useHash = (!replace && is.null(prob) && size <= n/2 && n > 1e7))
+
+Arguments:
+
+       x: either a vector of one or more elements from which to choose,
+          or a positive integer.  See ‘Details.’
+
+       n: a positive number, the number of items to choose from.  See
+          ‘Details.’
+
+    size: a non-negative integer giving the number of items to choose.
+
+ replace: should sampling be with replacement?
+
+    prob: a vector of probability weights for obtaining the elements of
+          the vector being sampled.
+
+ useHash: ‘logical’ indicating if the hash-version of the algorithm
+          should be used.  Can only be used for ‘replace = FALSE’,
+          ‘prob = NULL’, and ‘size <= n/2’, and really should be used
+          for large ‘n’, as ‘useHash=FALSE’ will use memory
+          proportional to ‘n’.
+
+Details:
+
+
