@@ -1,3 +1,38 @@
 Class 1/38/2020
 functions(argument)
+eg: mean(1:3)
+1 2 3
+1:3 shortcut in r to make a list of numbers
 
+> 1:6+1
+[1] 2 3 4 5 6 7
+> 1:6+1:6
+[1]  2  4  6  8 10 12
+> 1:3 * 1:3
+[1] 1 4 9
+
+Boolean TRUE, FALSE are capitalized
+
+sample( 1:6, size, replace=TRUE)
+> sample(1:6,size=2,replace=TRUE)
+[1] 5 3
+
+Data types:
+(0) boolean, integer, float, strings(char)
+(1) atomic vector myvector=c(1,2,3,4)  Same type for each element
+> c("a","c","g","t")
+[1] "a" "c" "g" "t"
+> c("a","c","g",1)
+[1] "a" "c" "g" "1"
+
+a list is a vector that can hold multiple data types
+
+(2) matrices matrix( c(1,2,3,4),nrows=2)
+  > matrix( c(1,2,3,4),nrow=2)
+       [,1] [,2]
+  [1,]    1    3
+  [2,]    2    4
+
+(3) arrays - multiple dimensions
+(4) factors 2cyl, 4cyl, 6cyl   mice=m,f  
+(5) DataFrame has named columns and rows if needed. 
