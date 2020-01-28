@@ -12,7 +12,7 @@ This class provides an introduction to programming for bioinformatics, with a fo
     * [R for Data Science](https://r4ds.had.co.nz/index.html) by Garrett Grolemund and Hadley Whickam
     * [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
     * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by Yihui Xie, J. J. Allaire, and Garrett Grolemund
-    * [Hands-On Programming with R](https://rstudio-education.github.io/) by Garrett Grolemund
+    * [Hands-On Programming with R](https://rstudio-education.github.io/hopr) by Garrett Grolemund
 - GitHub will be used for submitting homework and projects.
 -	Updates on your course grade will be posted periodically on Blackboard.
 
