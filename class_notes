@@ -37,5 +37,7 @@ a list is a vector that can hold multiple data types
 (4) factors 2cyl, 4cyl, 6cyl   mice=m,f  
 (5) DataFrame has named columns and rows if needed. 
 
-logging into the slurm server:  ssh username@144.175.88.21
+logging into the slurm server:  ssh dtv1@144.175.88.21
+SLURM
+srun --pty R
 
