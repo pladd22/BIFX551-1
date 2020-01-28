@@ -78,6 +78,25 @@ Arguments:
           for large ‘n’, as ‘useHash=FALSE’ will use memory
           proportional to ‘n’.
 
-Details:
+Details:....
+
+Show datasets that are available
+
+data()  
+ data()
+iris3                   Edgar Anderson's Iris Data
+islands                 Areas of the World's Major Landmasses
+ldeaths (UKLungDeaths)
+                        Monthly Deaths from Lung Diseases in the UK
+lh                      Luteinizing Hormone in Blood Samples
+longley                 Longley's Economic Regression Data
+lynx                    Annual Canadian Lynx trappings 1821-1934
+mdeaths (UKLungDeaths)
+                        Monthly Deaths from Lung Diseases in the UK
+morley                  Michelson Speed of Light Data
+mtcars                  Motor Trend Car Road Tests
+nhtemp                  Average Yearly Temperatures in New Haven
+nottem                  Average Monthly Temperatures at 
+...
 
 
