@@ -99,4 +99,9 @@ nhtemp                  Average Yearly Temperatures in New Haven
 nottem                  Average Monthly Temperatures at 
 ...
 
+=============================================================================
+FUNCTIONS
 
+my_function<-function() { 
+  return('return')
+}
