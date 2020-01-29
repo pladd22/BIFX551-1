@@ -105,3 +105,12 @@ FUNCTIONS
 my_function<-function() { 
   return('return')
 }
+
+> my_function<-function(argument) {
+  return(argument)
+  }
+  
+  > my_function<-function(argument) {answer<-argument*2;return(answer)}
+> my_function(2)
+[1] 4
+>
