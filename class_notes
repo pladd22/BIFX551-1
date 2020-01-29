@@ -113,4 +113,9 @@ my_function<-function() {
   > my_function<-function(argument) {answer<-argument*2;return(answer)}
 > my_function(2)
 [1] 4
->
+
+==loading from cloud
+>source('/cloud/project/function.R')
+
+==loading from homedir
+>source('~/function.R')
