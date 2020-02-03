@@ -1,6 +1,6 @@
 # Assignment 1 
 > Write your own function to convert between any two units. The function should take two arguments, a number, and an argument specifying the direction of the conversion. Include your function with documentation string in an R-markdown file
-
+```
 f_c_con <- function(temp, dir) {
   if(dir > 0) {
     celcius <- ((temp-32)/1.8)
@@ -17,7 +17,7 @@ f_c_con <- function(temp, dir) {
     print("That's a string, please enter an integer.")
   }
 }
-
+```
 ## f_c_con(temp,dir)
 
 ### Conversion from farenheit to celcius
@@ -42,13 +42,15 @@ A positive _dir_ value will convert forwared, from farenheit to celcius. A negat
 
 ## Examples
 \# Find the temperature in celcius if it is 42 degrees farenheit
-> f_c_con(32,1)
+```
+ f_c_con(32,1)
   [1] 0
-  
+  ```
 \# Find the temperature in farenheit if it is 42 degrees celcius
-> f_c_con(32,-1)
+ ```
+ f_c_con(32,-1)
   [1] 89.6
-
+```
 
 # Assignment 2
 > Load a builtin dataframe, you can see the list with data(). Use the summary function to write a short description of some interesting aspects of the dataframe. Write your results in an R-markdown file.
