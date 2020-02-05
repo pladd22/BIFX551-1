@@ -66,7 +66,7 @@ Date | Topic | Reading | Exercise
 Jan 21 | Welcome, Git/Github, R markdown | [Markdown](https://guides.github.com/features/mastering-markdown/) and [Chapter 2: HOPR](https://rstudio-education.github.io/hopr/basics.html) | Fork the class repository, create a new markdown file called "your_initials_week1.md" and write a short explanation of why you are in the bioinformatics program. Use a list, a picture, a link, and a table. Then send me a pull request. [GitHub Flow](https://guides.github.com/introduction/flow/)
 Jan 28 | Basic R: man pages, basic functions, data frames, factor variables, and other data types |[Chapter 11: R4DS](https://r4ds.had.co.nz/data-import.html) | 1. Write your own function to convert between any two units. The function should take two arguments, a number, and an argument specifying the direction of the conversion. Include your function with documentation string in an R-markdown file 2. Load a builtin dataframe, you can see the list with data(). Use the summary function to write a short description of some interesting aspects of the dataframe. Write your results in an R-markdown file.
 Feb 4 | Basic R: Importing .txt and .csv, using packages | |
-Feb 11 | Basic R: manipulating data frames, plotting data | |
+Feb 11 | R packages: knitr | |
 Feb 18 | R packages: knitr | |Start Project 1
 Feb 25 | R packages: dplyr/tidyverse | |
 Feb 26 | R packages: dplyr/tidyverse | |
