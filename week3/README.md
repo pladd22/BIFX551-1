@@ -23,7 +23,35 @@ close(f)
 
 ```{r}
 # Scatter plot
-plot(mtcars$mpg,mtcars$hp,xlab="Miles per Gallon",ylab = "Horse Power",main="HP as a function of MPG")
+plot(mtcars$mpg,
+      mtcars$hp,
+      xlab="Miles per Gallon",
+      ylab = "Horse Power",
+      main="HP as a function of MPG")
+
+# Bar plot
+barplot(Sepal.Length ~ Group.1,
+        data=mean_df,
+        col = c("red","blue","green"),
+        xlab="Species",
+        ylab="Sepal Length",
+        main="Mean Spepal Length by Species")
+
+# Histogram
+hist(mtcars$mpg,
+      main='mtcars MPG histogram',
+      xlab = 'MPG',
+      ylab = 'Frequency',
+      breaks=5,
+      col="lightgreen",
+      border="darkgreen")
+
+#Boxplot
+boxplot(iris$Sepal.Length ~ iris$Species, 
+         xlab="Species",
+         ylab="Sepal Length",
+         main="Iris Sepal Length by Species", 
+         col=c("bisque1","bisque3","bisque4"))
 ```
 # Assignment
 Go through the vignette for readr. 
