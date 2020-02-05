@@ -6,6 +6,7 @@
 This class provides an introduction to programming for bioinformatics, with a focus on programming in R and tools to communicate and develop your code. Emphasis will be placed on good development practices and reproducible research. Significant time will be spent learning to program within an integrated development environment, cleaning, visualizing, and analyzing data.
 
 -	Instructor: Chris Malec, PhD
+-  Email: cmalec@hood.edu
 -	Office Hours: In-person office hours will be held Wednesdays immediately after class. Appointments can be made for other times as needed.
 -	Prerequisites: BIFX 501 or BIFX 502
 -	Textbooks:
