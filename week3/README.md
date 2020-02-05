@@ -20,5 +20,10 @@ close(f)
 ```
 
 # Basic Plotting
+
+```{r}
+# Scatter plot
+plot(mtcars$mpg,mtcars$hp,xlab="Miles per Gallon",ylab = "Horse Power",main="HP as a function of MPG")
+```
 # Assignment
 Go through the vignette for readr. 
