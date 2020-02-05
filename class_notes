@@ -177,3 +177,6 @@ Error in open.connection(f) : invalid connection
 > f<-file('mri.txt')
 > open(f)
 
+## plot()
+## barplot()
+## hist(plot)
