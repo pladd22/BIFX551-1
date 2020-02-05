@@ -54,5 +54,5 @@ boxplot(iris$Sepal.Length ~ iris$Species,
          col=c("bisque1","bisque3","bisque4"))
 ```
 # Assignment
-Go through the vignette for readr. 
-Find a csv or txt file, download it, read it into a dataframe, use summary() to describe it, and create a labeled graph. Submit as an .R file. It should run and produce your graph.
+- Go through the vignette for readr. 
+- Find a csv or txt file, download it, read it into a dataframe, use summary() to describe it, and create a labeled graph. Submit as an .R file. It should run and produce your graph.
