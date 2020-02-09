@@ -119,3 +119,64 @@ my_function<-function() {
 
 ==loading from homedir
 >source('~/function.R')
+
+### reading .csv files from the internet
+
+> url<-"https://raw.githubusercontent.com/cemalec/BIFX551/master/week3/SYB62_1_201907_Population%2C%20Surface%20Area%20and%20Density.csv"
+> url
+[1] "https://raw.githubusercontent.com/cemalec/BIFX551/master/week3/SYB62_1_201907_Population%2C%20Surface%20Area%20and%20Density.csv"
+> download.file(url,"population.csv")
+trying URL 'https://raw.githubusercontent.com/cemalec/BIFX551/master/week3/SYB62_1_201907_Population%2C%20Surface%20Area%20and%20Density.csv'
+Content type 'text/plain; charset=utf-8' length 1997846 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+> mr-<-"https://raw.githubusercontent.com/cemalec/BIFX551/master/week3/MRI.txt"
+Error: unexpected assignment in "mr-<-"
+> mri<-"https://raw.githubusercontent.com/cemalec/BIFX551/master/week3/MRI.txt"
+> download.file(mri, "mri.txt")
+trying URL 'https://raw.githubusercontent.com/cemalec/BIFX551/master/week3/MRI.txt'
+Content type 'text/plain; charset=utf-8' length 141313 bytes (138 KB)
+==================================================
+downloaded 138 KB
+
+> pop_df<-read.csv("population.csv")
+> dim(pop_df)
+[1] 7352    7
+
+## this does not work because the delim is not indicated
+> mri_df<-read.delim("mri.txt")
+> View(mri_df)
+
+## This does not work because the delim for white space is "", not " "
+> mri_df<-read.delim("mri.txt",sep=" ")
+Error in read.table(file = file, header = header, sep = sep, quote = quote,  : 
+
+## This works!!
+  more columns than column names
+> mri_df<-read.delim("mri.txt",sep="")
+
+### Reading in files (for giant files ) ###
+f<-file('mri.txt')
+### read 1 line
+> readLines(con=f, n=1)
+
+### read 100 lines
+> readLines(con=f, n=100)
+### keep reading until the file ends
+character(0)
+### can't just repopen the file
+> open(f)
+Warning message:
+In open.connection(f) : connection is already open
+> close(f)
+> open(f)
+Error in open.connection(f) : invalid connection
+
+## this works to re-open the file
+> f<-file('mri.txt')
+> open(f)
+
+## plot()
+## barplot()
+## hist(plot)
