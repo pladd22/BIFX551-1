@@ -1,6 +1,7 @@
-#Tidyr
+# Tidyr
+Tidyr is great for tidy data and making tables longer and wider with pivot_longer and pivot_wider.
 
-#Dplyr
+# Dplyr
 
 # Assignment
 
