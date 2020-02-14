@@ -1,3 +1,9 @@
+# Reproducible Research
+Reproducible research in a nutshell means creating an automated workflow so that the same data leads to the same results without human fallibility interfering with the analysis process. Reproducible research doesn't defend against bad data, incompetent analysis, or scientific dishonesty, but it prevents you accidental copy+paste to the wrong excel sheet from destroying your project. To help you get more into the Reproducible mindset, here is Roger Peng's 3 part series (don't worry, the parts aren't long). He's in the Hopkins biostats department and is a big proponent of the concept.
+- [Part 1](https://www.youtube.com/watch?v=pjL2uP-fmPY)
+- [Part 2](https://www.youtube.com/watch?v=VOaN33aAcEw)﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+- [Part 3](https://www.youtube.com/watch?v=SppP5TXnmwc_
+
 # Tidyr
 Tidyr is great for tidy data and making tables longer and wider with pivot_longer and pivot_wider.
 ```{r}
