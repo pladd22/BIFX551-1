@@ -34,6 +34,9 @@ library(stats)
 iris_wide <- filter(iris, Sepal.Width > quantile(Sepal.Width,0.75)) #returns only rows in the upper quartile of sepal width
 
 #arrange places rows in a different order
+iris_bySepalLength <- arrange(iris, Sepal.Length) #Sorts rows by increasing sepal length
+iris_bySepalLength <- arrange(iris, desc(Sepal.Length)) #Sorts rows by decreasing sepal length
+iris_bySepalLengthAndSpecies <- iris %>% group_by(Species) %>% arrange(Sepal.Length) #Sorts within species groups
 
 #select pulls columns out of a dataframe, can also be used to rearrange columns
 
