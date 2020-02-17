@@ -29,6 +29,9 @@ original_pop_df <- pivot_longer(data = wide_pop_df,
 Dplyr is for general data manipulation. The main functions in dplyr are select, arrange, filter, mutate, and summarize. Dplyr is also most people's first encounter with the 'pipe' operator, or %>%. The pipe operator essentially places the object to the left of the pipe as the first argument of the function to the right of the pipe. So x %>% f(y) = f(x,y)
 ```{r}
 #filter pulls rows out of a dataframe
+iris_setosa <- filter(iris, Species == 'setosa') #returns only rows from the 'setosa' species
+library(stats)
+iris_wide <- filter(iris, Sepal.Width > quantile(Sepal.Width,0.75)) #returns only rows in the upper quartile of sepal width
 
 #arrange places rows in a different order
 
