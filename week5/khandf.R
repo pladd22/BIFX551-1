@@ -1,8 +1,5 @@
-# BIFX 551 Homework - Read a .csv file and create a plot
-# Paula Ladd
+#A dataset to rework in dplyr
 
-#install.packages("tidyverse")
-#load.packages("tidyverse")
 library(tidyverse)
 
 download.file("http://bioinf.ucd.ie/people/aedin/R/full_datasets/khan_train.csv", "khan_train.csv")
