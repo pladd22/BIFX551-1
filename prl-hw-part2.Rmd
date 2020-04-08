@@ -1,0 +1,26 @@
+---
+title: "hw-part2"
+author: "Paula Ladd"
+date: "4/8/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part 2
+
+2. Look at one of the packages in the Tidyverse on github, like tidyr.  Open the test folder and find the test for a function you are familiar with, what is one test that seems obvious, what is one that seems less obvious.  Also look at one vignette, how is this similar to reports you have written in R-markdown.  Is the data used in the vignette available in the same folder?
+
+## Tests in readr
+
+One of the more obvious tests that were under the folder was test read_csv, as this is one of the basic functions of readr.  This included many tests to make sure that the basic functions of reading a csv file and displaying the information in a dataframe worked properly.
+
+One of the tests I wouldn't have thought of initially is test-parsing time.  This is a complication to the data I wouldn't have thought to specifically address, and the tests include things such as second to minute to hour conversion happening properly and proper conversion from AM and PM at the 12:00 marks.
+
+## Vignettes
+
+These reports are definitely more instructional than reports I've personally done in R Markdown in the past.  Their organization and examples definitely make it quite readable and accessable, and I think I can take example from this type of vignette in how I structure future R Markdown reports.  
+
+There were not really examples in the two vignettes that used external data, and no external data was given in the folder.  The majority of examples used data either from base R or possibly the MASS data package.  At most, data for location codes was given in an external link.
